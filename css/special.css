@@ -1,0 +1,14 @@
+.special-list{
+  width: 1004px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+
+.special-list .wp-block-image{
+  width: 32%;
+}
+
+

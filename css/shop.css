@@ -1,0 +1,20 @@
+.shop-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.shop-table th{
+  font-weight: normal;
+  text-align: left;
+}
+
+.shop-table th,
+.shop-table td{
+  border-bottom: dotted 1px #502411;
+  padding: 20px 0 20px;
+}
+
+.shop-map{
+  margin: 40px auto 0;
+}

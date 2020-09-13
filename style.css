@@ -1,0 +1,15 @@
+/*
+Theme Name: カフェ用テンプレート
+Description: カフェを紹介するサイトのテンプレートです
+*/
+@import url('./css/common.css');
+@import url('./css/header.css');
+@import url('./css/footer.css');
+@import url('./css/top.css');
+@import url('./css/news.css');
+@import url('./css/single.css');
+@import url('./css/shop.css');
+@import url('./css/menu.css');
+@import url('./css/special.css');
+@import url('./css/contact.css');
+@import url('./css/sp.css');

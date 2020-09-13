@@ -1,0 +1,41 @@
+.menu-list{
+  width: 1004px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.menu-list-item{
+  width: 494px;
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+
+.menu-list-item h2{
+  font-size: 16px;
+  margin: 0 0 10px;
+}
+
+.menu-list-item:after{
+  display: block;
+  content: "";
+  clear: both;
+}
+
+.menu-list-item img{
+  object-fit: cover;
+  float: left;
+  margin-right: 16px;
+}
+
+.menu-list-item:nth-child(2n){
+  margin-right: 0;
+}
+
+.menu-list-item-price{
+  margin: 0 0 10px;
+}
+
+.menu-list-item-description{
+  margin: 0;
+}

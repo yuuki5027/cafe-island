@@ -1,0 +1,50 @@
+.contact-table th{
+  font-weight: normal;
+  text-align: left;
+  line-height: 38px;
+  vertical-align: top;
+  width: 170px;
+}
+
+.contact-table td{
+  padding-bottom: 30px;
+}
+
+.contact-table input[type="text"],
+.contact-table input[type="email"],
+.contact-table textarea{
+  border-radius: 3px;
+  border: solid 1px #502411;
+  font-size: 18px;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.contact-table input[type="text"],
+.contact-table input[type="email"]{
+  width: 324px;
+  height: 38px;
+}
+
+.contact-table textarea{
+  width: 494px;
+  height: 114px;
+  padding: 10px;
+}
+
+.contact-button{
+  border-radius: 0;
+  -webkit-box-sizing: content-box;
+  -webkit-appearance: button;
+  appearance: button;
+  border: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  width: 154px;
+  height: 38px;
+  text-align: center;
+  background: #502411;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+}

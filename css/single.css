@@ -1,0 +1,15 @@
+.entry-info-list{
+  display: flex;
+}
+
+.entry-info-list li{
+  list-style: none;
+  margin-right: 20px;
+  color: #77BBDD;
+  font-size: 14px;
+}
+
+.entry-info-list li img{
+  margin-right: 5px;
+  vertical-align: text-bottom;
+}
