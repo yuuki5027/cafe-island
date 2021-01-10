@@ -77,13 +77,13 @@
     <h2 class="text-center font-serif">SPECIAL CONTENTS</h2>
     <ul class="top-special-list">
       <li class="top-special-list-item">
-        <a href="http://cafeisland.local/special1/"><img src="<?php echo get_template_directory_uri(); ?>/images/sp3.png" srcset="<?php echo get_template_directory_uri(); ?>/images/sp3.png 1x,<?php echo get_template_directory_uri(); ?>/images/sp3@2x.png 2x"></a>
+        <a href="https://cafe-island.wonderful-life.fun/special1/"><img src="<?php echo get_template_directory_uri(); ?>/images/sp3.png" srcset="<?php echo get_template_directory_uri(); ?>/images/sp3.png 1x,<?php echo get_template_directory_uri(); ?>/images/sp3@2x.png 2x"></a>
       </li>
       <li class="top-special-list-item">
-        <a href="http://cafeisland.local/special2/"><img src="<?php echo get_template_directory_uri(); ?>/images/sp2.png" srcset="<?php echo get_template_directory_uri(); ?>/images/sp2.png 1x,<?php echo get_template_directory_uri(); ?>/images/sp2@2x.png 2x"></a>
+        <a href="https://cafe-island.wonderful-life.fun/special2/"><img src="<?php echo get_template_directory_uri(); ?>/images/sp2.png" srcset="<?php echo get_template_directory_uri(); ?>/images/sp2.png 1x,<?php echo get_template_directory_uri(); ?>/images/sp2@2x.png 2x"></a>
       </li>
       <li class="top-special-list-item">
-        <a href="http://cafeisland.local/special/"><img src="<?php echo get_template_directory_uri(); ?>/images/sp1.png" srcset="<?php echo get_template_directory_uri(); ?>/images/sp1.png 1x,<?php echo get_template_directory_uri(); ?>/images/sp1@2x.png 2x"></a>
+        <a href="https://cafe-island.wonderful-life.fun/special3/"><img src="<?php echo get_template_directory_uri(); ?>/images/sp1.png" srcset="<?php echo get_template_directory_uri(); ?>/images/sp1.png 1x,<?php echo get_template_directory_uri(); ?>/images/sp1@2x.png 2x"></a>
       </li>
     </ul>
   </article>
